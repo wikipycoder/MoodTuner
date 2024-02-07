@@ -16,7 +16,7 @@ MoodTunes is a Python project that recommends songs based on the user's mood inf
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/MoodTunes.git
+    [git clone https://github.com/wikipycoder/MoodTuner.git]
     ```
 
 2. Navigate to the project directory:
